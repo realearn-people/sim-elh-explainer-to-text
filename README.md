@@ -27,7 +27,7 @@ They share exactly the same “path” from Graph ActivePlace to Graph Mangrove:
 They share the similar “path” from Graph  ActivePlace to Graph Mangrove:
 97% match: (Place, {canSail}, Kayaking) and (Place, {canWalk, canMoveWithLeg}, Trekking) 
 Table Explanation:
-# "Node or Path from
+#, "Node or Path from
 Graph 1: ActivePlace" "Node or Path from
 Graph 2: Mangrove" "Similarity
 Result" Embeddings value
