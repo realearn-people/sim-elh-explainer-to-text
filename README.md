@@ -22,6 +22,7 @@ Output format (Must Follow This Format Exactly):
 ActivePlace and Mangrove are 62% similar meaning. 
 
 Summary Explanation: They are 62% similar because
+
 Their Top Parent node comparison: 1 of 1 matched 100%
 Their Path comparison: 1 of 2 matched 100%
 
@@ -34,9 +35,7 @@ They share the similar “path” from Graph  ActivePlace to Graph Mangrove:
 
 Table Explanation:
 #, "Node or Path from
-Graph 1: ActivePlace" "Node or Path from
-Graph 2: Mangrove" "Similarity
-Result" Embeddings value
+Graph 1: ActivePlace" "Node or Path from Graph 2: Mangrove" "Similarity Result" Embeddings value
 1 Place Place Same
 2 (Place, {canWalk, canMoveWithLeg}, Trekking) (Place, {canWalk, canMoveWithLeg}, Trekking) Same
 3 (Place, {canSail}, Kayaking) (Place, {canWalk, canMoveWithLeg}, Trekking) 97% {Kayaking, Trekking}
