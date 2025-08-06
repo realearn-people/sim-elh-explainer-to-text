@@ -23,22 +23,23 @@ ActivePlace and Mangrove are 62% similar meaning.
 
 Summary Explanation: They are 62% similar because
 
-Their Top Parent node comparison: 1 of 1 matched 100%
-Their Path comparison: 1 of 2 matched 100%
+  - Their Top Parent node comparison: 1 of 1 matched 100%
+  - Their Path comparison: 1 of 2 matched 100%
 
 Detailed Explanation: They are 62% similar because
-They share top parent node: Place (100% match)
-They share exactly the same “path” from Graph ActivePlace to Graph Mangrove:
-100% match: (Place, {canWalk, canMoveWithLeg}, Trekking) and (Place, {canWalk, canMoveWithLeg}, Trekking)
-They share the similar “path” from Graph  ActivePlace to Graph Mangrove:
-97% match: (Place, {canSail}, Kayaking) and (Place, {canWalk, canMoveWithLeg}, Trekking) 
+  - They share top parent node: Place (100% match)
+  - They share exactly the same “path” from Graph ActivePlace to Graph Mangrove:
+      - 100% match: (Place, {canWalk, canMoveWithLeg}, Trekking) and (Place, {canWalk, canMoveWithLeg}, Trekking)
+  - They share the similar “path” from Graph  ActivePlace to Graph Mangrove:
+      - 97% match: (Place, {canSail}, Kayaking) and (Place, {canWalk, canMoveWithLeg}, Trekking) 
 
 Table Explanation:
+
 #, "Node or Path from
 Graph 1: ActivePlace" "Node or Path from Graph 2: Mangrove" "Similarity Result" Embeddings value
-1 Place Place Same
-2 (Place, {canWalk, canMoveWithLeg}, Trekking) (Place, {canWalk, canMoveWithLeg}, Trekking) Same
-3 (Place, {canSail}, Kayaking) (Place, {canWalk, canMoveWithLeg}, Trekking) 97% {Kayaking, Trekking}
+- 1 Place Place Same
+- 2 (Place, {canWalk, canMoveWithLeg}, Trekking) (Place, {canWalk, canMoveWithLeg}, Trekking) Same
+- 3 (Place, {canSail}, Kayaking) (Place, {canWalk, canMoveWithLeg}, Trekking) 97% {Kayaking, Trekking}
 
 Your task: generate a friendly, human-readable explanation based on the input below, using the exact format provided.
 
