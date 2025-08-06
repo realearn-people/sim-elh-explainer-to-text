@@ -1,4 +1,3 @@
-# sim-elh-explainer-to-text
 # Full Prompt
 
 Input structure:
